@@ -1,13 +1,9 @@
-﻿using ChatApp.Net.IO;
-using ChatClient.Net.IO;
+﻿using ChatClient.Net.IO;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net.Sockets;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace ChatApp.Net
+namespace ChatClient.Net
 {
     class Server
     {
@@ -22,6 +18,7 @@ namespace ChatApp.Net
         public Server() 
         {
             _client = new TcpClient();
+            
         } 
         public void ConnectToServer(string username)
         {

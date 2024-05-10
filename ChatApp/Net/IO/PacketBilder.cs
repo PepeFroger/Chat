@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace ChatApp.Net.IO
+namespace ChatClient.Net.IO
 {
     class PacketBilder
     {

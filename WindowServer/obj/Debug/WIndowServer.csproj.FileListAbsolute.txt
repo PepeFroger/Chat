@@ -1,0 +1,16 @@
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\WIndowServer.csproj.AssemblyReference.cache
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\App.g.cs
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\WIndowServer_MarkupCompile.cache
+C:\Важное\Chat\Chat\WIndowServer\bin\Debug\WIndowServer.exe.config
+C:\Важное\Chat\Chat\WIndowServer\bin\Debug\WIndowServer.exe
+C:\Важное\Chat\Chat\WIndowServer\bin\Debug\WIndowServer.pdb
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\MVVM\View\MainWindow.g.cs
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\WIndowServer_MarkupCompile.lref
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\MVVM\View\MainWindow.baml
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\WIndowServer.g.resources
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\WIndowServer.Properties.Resources.resources
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\WindowServer.csproj.GenerateResource.cache
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\WindowServer.csproj.CoreCompileInputs.cache
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\WIndowServer.exe
+C:\Важное\Chat\Chat\WIndowServer\obj\Debug\WIndowServer.pdb

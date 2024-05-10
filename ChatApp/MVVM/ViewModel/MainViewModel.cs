@@ -1,15 +1,11 @@
-﻿using ChatApp.MVVM.Core;
-using ChatApp.MVVM.Model;
-using ChatApp.Net;
-using System;
-using System.Collections.Generic;
+﻿using ChatClient.MVVM.Core;
+using ChatClient.MVVM.Model;
+using ChatClient.Net;
 using System.Collections.ObjectModel;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 
-namespace ChatApp.MVVM.ViewModel
+namespace ChatClient.MVVM.ViewModel
 {
     class MainViewModel
     {
