@@ -1,0 +1,16 @@
+C:\Users\petro\source\repos\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\petro\source\repos\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\petro\source\repos\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\MVVM\View\MainWindow.g.cs
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\App.g.cs
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp_MarkupCompile.cache
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp_MarkupCompile.lref
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\MVVM\View\MainWindow.baml
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.g.resources
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\Users\petro\source\repos\ChatApp\ChatApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
