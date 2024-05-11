@@ -45,7 +45,8 @@
                          Text="{Binding Message, UpdateSourceTrigger=PropertyChanged}"/>
                 <Button Width="65"
                         Content="Отправить"
-                        Command="{Binding SendMessageCommand}"/>
+                        Command="{Binding SendMessageCommand}"
+                        IsDefault="True"/>
             </StackPanel>   
             
         </StackPanel>

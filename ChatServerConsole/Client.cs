@@ -25,7 +25,7 @@ namespace ChatServerConsole
             var opcode = _packetReader.ReadByte();
             UserName = _packetReader.ReadMessage();
 
-            Console.WriteLine($"[{DateTime.Now.ToShortTimeString()}]: клиент подключаился к серверу под именем : {UserName}");
+            Console.WriteLine($"[{DateTime.Now.ToShortTimeString()}]: Произошло подлючение под именем: {UserName}");
 
             Task.Run(() => Process());
         }
